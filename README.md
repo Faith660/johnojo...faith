@@ -20,3 +20,4 @@ supporting various hardware and networking options.
 ![Image](https://github.com/user-attachments/assets/29d63b28-5a23-4dcc-8b02-564d15580858)
 ![Image](https://github.com/user-attachments/assets/954ff3e9-9245-497b-b078-ab628fff3a44)
 ![Image](https://github.com/user-attachments/assets/06de0109-03b3-4c60-a5f1-a7cb28ea830c)
+![Image](https://github.com/user-attachments/assets/ea426c28-7acd-43ae-a968-9e8754d9009d)
