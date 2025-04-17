@@ -17,3 +17,4 @@ facilites better understanding of the techworld and how to navigate around it wi
 supporting various hardware and networking options.
 
 ## Installation
+![Image](https://github.com/user-attachments/assets/29d63b28-5a23-4dcc-8b02-564d15580858)
